@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhishe28883885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe28883885" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-mishra-b8b449248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-mishra-b8b449248" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-mishra-b8b449248" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-mishra-b8b449248" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhishek-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishek-mishra" height="30" width="40" /></a>
 </p>
